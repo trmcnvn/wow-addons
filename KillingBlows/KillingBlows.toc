@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: Killing Blows
+## Author: Maccaa / Vevix
+## Version: 1.1
+## Notes: Plays sounds when you kill another player
+## SavedVariables: KillDB
+
+KillingBlows.lua
