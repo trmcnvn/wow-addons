@@ -1,4 +1,4 @@
-## Interface: 50400
+## Interface: 60200
 ## Author: Maccaa / Vevix
 ## Version: 1.1
 ## Description: Sets the tabs alpha to 0, removes b.net social button
